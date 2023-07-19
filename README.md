@@ -1,4 +1,5 @@
-# This is a voice cloning model that uses sv2tts pre-trained model to generate audio output for the given prompt, having the characteristics of the target speaker.
+# Voice Cloning
+## This is a voice cloning model that uses sv2tts pre-trained model to generate audio output for the given prompt, having the characteristics of the target speaker.
 
 ### 1. Install Requirements
 1. Both Windows and Linux are supported. A GPU is recommended for training and for inference speed, but is not mandatory.
